@@ -31,6 +31,15 @@
         <mxCell id="hq5juMCsUXhFUFhZ_UQl-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d9eaee, #ededed);strokeColor=none;" value="" vertex="1">
           <mxGeometry height="40" width="160" x="41.75" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="hq5juMCsUXhFUFhZ_UQl-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=#004C99;" value="&lt;b&gt;（a）CNN-based&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="40" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hq5juMCsUXhFUFhZ_UQl-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#CC6D34,#FF8000);" value="&lt;b&gt;（b）Transformer-based&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="190.87" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hq5juMCsUXhFUFhZ_UQl-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontColor=light-dark(#CC6D34,#FF8000);" value="&lt;b&gt;（c）Mamba-based&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="260" y="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
